@@ -5,7 +5,7 @@
 ## 1. Abstract  
 Diabetes affects approximately 5.8 million people in the UK [1], posing severe risks to the cardiovascular system, blood vessels, and organs [2]. This report explores a comprehensive [dataset](#2-description-of-the-dataset) comprised of medical, genetic and lifestyle related variables associated with different diabetes-related conditions.  
 
-Sourced from hospitals, clinical studies, and public health repositories, the dataset supports an in-depth analysis of key risk factors and diagnostic indicators. Drawing on [current state-of-the-art](#3-current-state-of-the-art) visualisation methods used in medical and epidemiology, this report will explore current techniques to visually present this data. Then I will look at [invention](#4-invention) of new visualisations with the goal of enhancing understanding and detection of diabetes-related conditions. Finally the report will have a conclusion describing the successfulness of the designed inventions in relation to the current market.
+Sourced from hospitals, clinical studies, and public health repositories, the dataset supports an in-depth analysis of key risk factors and diagnostic indicators. Drawing on [current state-of-the-art](#3-current-state-of-the-art) visualisation methods used in medical and epidemiology, this report will explore current techniques to visually present this data. Then I will look at [invention](#4-invention) of new visualisations with the goal of enhancing understanding and detection of diabetes-related conditions. The report will finish with a [conclusion](#5-conclusion) describing the successfulness of the designed inventions in relation to the current market.
 
 ---
 
