@@ -80,23 +80,23 @@ Figure 1 contains a table breakdown of age distribution for each care board. It 
 **Figure 1a** Age band of people with type 1 diabetes by Care Board  
 It allows users to click on a bar chart for the percent of a given care board and age but doesn’t represent this comparatively.  
 
-<img width="532" height="286" alt="image" src="https://github.com/user-attachments/assets/8082dca5-e0ee-47e6-961a-45f3ed70c548" />
+![ge band of people with type 1 diabetes by Care Board with selected detail](images/Figure-2a.png)
 
 **Figure 1b** Age band of people with type 1 diabetes by Care Board with selected detail.  
 
 The NHS Digital. Uses stacked bar charts representing distribution of Type 2 Diabetes by demographics. This visually describes the breakdown well, being labelled with percentages to give quantitative values.  
 
-<img width="532" height="282" alt="image" src="https://github.com/user-attachments/assets/7e70fdf3-ad8f-4a52-b489-dc1b0bd62236" />
+![Type 2 Diabetes breakdown stacked bar charts](images/Figure-2.png)
 
 **Figure 2** Type 2 Diabetes breakdown stacked bar charts.  
 
-<img width="532" height="290" alt="image" src="https://github.com/user-attachments/assets/1f44739e-b8a6-4587-b08f-99fce32119cc" />
+![Young adult Type 1 Diabetes audit within care boards](images/Figure-3.png)
 
 **Figure 3** Young adult Type 1 Diabetes audit within care boards  
 
 Figure 3 is a radar plot that describes the number of young persons with type 2 diabetes in each region. This graph however doesn’t have clear indication of percentage on the radar: 48.5% of young people in London have type 2 diabetes, but the graph seemingly presents this data to suggest 26%. The radar plot is a great way of describing the influence of each attribute effect a condition, but I feel this would have been better represented by a heat map of geographical locations.  
 
-<img width="532" height="290" alt="image" src="https://github.com/user-attachments/assets/a0fb175b-b105-46c9-a6c3-99dec224713b" />
+![Young adult Type 1 Diabetes audit demographic graphs](images/Figure-4.png)
 
 **Figure 4** Young adult Type 1 Diabetes audit demographic graphs  
 Figure 4 Represents breakdown of age, sex, ethnicity and deprivation by bar charts. The graph allows for filtering by audit year, country and region, two improvements of this graph would be smaller axis intervals making the results more interpretable, the graph seemingly describes a prevalence within the white ethnicity, this distribution however doesn’t describe the prevalence of the white ethnicity within the region which can lead to misinterpretation.  
@@ -106,13 +106,13 @@ This Non-Contiguous Cartogram represents the expenditure for patients with diabe
 
 This graph reflects the disparity between different countries in expenditure to tackle the disease. A difficulty with this approach is the distortion of a country may end up making it unrecognisable which impacts readability of most significant changes.  
 
-<img width="513" height="257" alt="image" src="https://github.com/user-attachments/assets/ee4bc882-f649-4983-8852-2306173b5251" />
+![A non-contiguous Cartogram of Country diabetes expenditure](images/Figure-5.png)
 
 **Figure 5** A non-contiguous Cartogram of Country diabetes expenditure.  
 
 ### 3.3 DiabetesAtlas Diabetes cases  
 
-<img width="489" height="331" alt="image" src="https://github.com/user-attachments/assets/aac56bce-1333-413b-bdab-e62e954d1cbe" />
+![An interactive world heat map which displays country diabetes cases](images/Figure-6.png)
 
 **Figure 6** An interactive world heat map which displays country diabetes cases.  
 
@@ -128,13 +128,13 @@ Given the categorical and Boolean nature of the demographic variables in the dat
 It is best to try and describe as much information as possible in the simplest manner. The use of radar plot is great to describe characteristic nature of features. A radar plot is form of radial graphing, best for comparing multiple groups of information such as the diabetes classifications.  
 
 It is possible to overlay the different diabetes classifications with individual colours. To aid interpretability a filter should be added to ensure ease of comparison by applying relevant classifications. A legend should describe the colour coding and allow for customisation based on user preferences. Based on my finding the use of a customisable coloured radar plot with filtered obesity classifications is unique.  
-<img width="542" height="376" alt="image" src="https://github.com/user-attachments/assets/7467f474-a106-4a0c-8c6a-96e39c33610c" />
+![Lifestyle and Social factors of diabetes conditions radar plot](images/Figure-7.png)
 
 **Figure 7** Lifestyle and Social factors of diabetes conditions radar plot  
 
 ### 4.2 Diabetes conditions as a line graph  
 
-<img width="537" height="295" alt="image" src="https://github.com/user-attachments/assets/712ca24a-5b28-444f-a2bf-c9e7eae649dd" />
+![Diabetes conditions multivariable linegraph](images/Figure-8.png)
 
 **Figure 8** Diabetes conditions multivariable linegraph
 
@@ -143,7 +143,7 @@ Line graphs are highly interpretable describing two variables and their effect o
 ### 4.3 Interactive Diabetes density plot  
 A density plot is used to show the distribution of continuous variables and helps users to understand where values are most concentrated.  
 
-<img width="532" height="345" alt="image" src="https://github.com/user-attachments/assets/e5038dcb-3285-48d8-a68f-20ccbae0c693" />
+![Prototype Blood Pressure and Age Density plot](images/Figure-9.png)
 
 **Figure 9** Prototype Blood Pressure and Age Density plot  
 
@@ -158,7 +158,7 @@ It is possible to explore using gloves, which might have haptic feedback that vi
 
 ### 4.5 Predictive Diagnostic stacked bar chart  
 
-<img width="532" height="376" alt="image" src="https://github.com/user-attachments/assets/7e4899f3-9d96-4b35-af46-8c4ab8f2f317" />
+![Predictive Diabetes Diagnostic Stacked Bar chart](images/Figure-10.png)
 
 **Figure 10** Predictive Diabetes Diagnostic Stacked Bar chart  
 
