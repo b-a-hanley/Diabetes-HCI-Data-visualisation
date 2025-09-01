@@ -75,7 +75,7 @@ The NHS have several interactive dashboards displaying data of the institutional
 
 Figure 1 contains a table breakdown of age distribution for each care board. It then describes this data in bar charts however the information is cluttered with too many care boards, making value insights offered across ages less distinguishable.  
 
-![Age band of people with type 1 diabetes by Care Board](images/Figure-1.png)
+![Age band of people with type 1 diabetes by Care Board](images/Figure-1a.png)
 
 **Figure 1a** Age band of people with type 1 diabetes by Care Board  
 It allows users to click on a bar chart for the percent of a given care board and age but doesn’t represent this comparatively.  
