@@ -91,7 +91,9 @@ The NHS Digital. Uses stacked bar charts representing distribution of Type 2 Dia
 **Figure 2** Type 2 Diabetes breakdown stacked bar charts.  
 
 <img width="532" height="290" alt="image" src="https://github.com/user-attachments/assets/1f44739e-b8a6-4587-b08f-99fce32119cc" />
+
 **Figure 3** Young adult Type 1 Diabetes audit within care boards  
+
 Figure 3 is a radar plot that describes the number of young persons with type 2 diabetes in each region. This graph however doesn’t have clear indication of percentage on the radar: 48.5% of young people in London have type 2 diabetes, but the graph seemingly presents this data to suggest 26%. The radar plot is a great way of describing the influence of each attribute effect a condition, but I feel this would have been better represented by a heat map of geographical locations.  
 
 <img width="532" height="290" alt="image" src="https://github.com/user-attachments/assets/a0fb175b-b105-46c9-a6c3-99dec224713b" />
@@ -134,7 +136,7 @@ It is possible to overlay the different diabetes classifications with individual
 
 <img width="537" height="295" alt="image" src="https://github.com/user-attachments/assets/712ca24a-5b28-444f-a2bf-c9e7eae649dd" />
 
-**Figure 8** Lifestyle and Social factors of diabetes conditions radar plot  
+**Figure 8** Diabetes conditions multivariable linegraph
 
 Line graphs are highly interpretable describing two variables and their effect on each other. The classifications can be overlaid with a legend describing a customisable colour scheme. They can filter classifications for ease of use. This interaction allows for dropdown methods for each of the available clinical measures. By a user interacting with the graph and seeing the implications their memory of the event is greatly improved. Currently there is no dataset in which you can overlay diabetes classifications with the ability to select different data axis.  
 
