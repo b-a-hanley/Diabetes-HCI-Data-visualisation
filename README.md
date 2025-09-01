@@ -80,7 +80,7 @@ Figure 1 contains a table breakdown of age distribution for each care board. It 
 **Figure 1a** Age band of people with type 1 diabetes by Care Board  
 It allows users to click on a bar chart for the percent of a given care board and age but doesn’t represent this comparatively.  
 
-![ge band of people with type 1 diabetes by Care Board with selected detail](images/Figure-2a.png)
+![Age band of people with type 1 diabetes by Care Board with selected detail](images/Figure-1b.png)
 
 **Figure 1b** Age band of people with type 1 diabetes by Care Board with selected detail.  
 
